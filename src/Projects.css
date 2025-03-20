@@ -1,0 +1,29 @@
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Light Mode (default) */
+.project-card {
+    background: #f9f9f9;
+    color: #333; /* Default text color */
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Dark Mode */
+.dark-mode .project-card {
+    background: #1e1e1e; /* Dark background */
+    color: #fff !important; /* White text to contrast */
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    margin-top: 10px;
+}

@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Project Gambit",
+        "author": "Ariya Dhukka",
+        "languages": ["C#", "Unity", "Unreal Engine"],
+        "description": "Developed a brain-controlled game using Unity and Unreal Engine."
+    },
+    {
+        "id": 2,
+        "name": "Flappy Bird Clone",
+        "author": "Ariya Dhukka",
+        "languages": ["C#"],
+        "description": "Created a Flappy Bird clone with physics-based gameplay."
+    }
+]
